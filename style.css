@@ -1,0 +1,121 @@
+
+.part1{background-color:#c11616 }
+
+.history{background-color:#c11616;}
+
+.intro{
+  color: #fff;
+padding: 200px 80px;
+}
+
+.toppart{
+  background-image: url("images/pic1.png");
+   background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    padding-top: 20px;
+    opacity: 0.8
+}
+
+.navbar-brand{padding-left: 20px}
+
+.line{position: absolute;
+    right: 40px;}
+
+
+.logistic{
+  display: flex;
+  align-self: center;
+  align-items: center;
+    justify-content: center;}
+
+.largest{display: flex;
+align-self: center;
+align-items: center;
+  justify-content: center;}
+
+  .part2{padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+background-color: #c11616;
+color: #fff}
+
+  .cfsi{border-radius: 100%;
+  float: left;}
+
+  .cfsinfo{
+    padding-top: 60px;
+    padding-left: 20px;
+  }
+
+  .trani{border-radius: 100%;
+  float: right;}
+
+  .tranfo{
+    padding-top: 60px;
+    padding-left: 20px;
+  }
+
+  .bar{border-radius: 100%;
+  float: left;}
+
+  .barinfo{
+    padding-top: 60px;
+    padding-left: 20px;
+  }
+  .cust{border-radius: 100%;
+  float: right;}
+
+  .custinfo{
+    padding-top: 60px;
+    padding-left: 20px;
+  }
+  .asseti{border-radius: 100%;
+  float: left;}
+
+  .assetinfo{
+    padding-top: 60px;
+    padding-left: 20px;
+  }
+
+
+  .sp{padding-top: 30px;
+  padding-bottom: 30px;}
+
+
+
+  .part4{padding-top: 50px;
+    padding-bottom: 120px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color:#c11616;
+    color:#fff;
+    text-align: center;
+  }
+
+  .muninfo{padding-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.his{
+  height: 400px;
+  margin-bottom: 50px;
+}
+
+.histinfo{
+  position: absolute;
+  right: 50px;
+}
+
+.ser{padding-left: 80px;
+padding-right: 80px;
+color: #fff;
+padding-bottom: 50px;}
+
+.s{border-radius: 100%}
+
+.eco{color:#fff;
+padding-left: 50px;
+padding-right: 50px;}
